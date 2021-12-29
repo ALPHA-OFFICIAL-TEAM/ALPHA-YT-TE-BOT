@@ -1,13 +1,13 @@
 {
-  "name": " ❰🍁🔱 T Rex TG 🔱🍁❱  YouTube Downloader Bot",
+  "name": " ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ V1.0.0.0 YouTube Downloader Bot",
   "description": "A telegram bot To Download Youtube VIDEOES,AUDIOES ",
-  "logo": "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg",
+  "logo": "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg",
   "keywords": [
-    "Youtube","YoutubeDownloader","T-Rex TG"
+    "Youtube","YoutubeDownloader","ALPHA TG"
   ],
-  "repository": "https://github.com/Dark-Knight-Hiruwa/YOUTUBE-DOWNLOADER-TELEGRAM-BOT",
-  "success_url": "https://github.com/Dark-Knight-Hiruwa/YOUTUBE-DOWNLOADER-TELEGRAM-BOT",
-  "website": "https://github.com/Dark-Knight-Hiruwa/YOUTUBE-DOWNLOADER-TELEGRAM-BOT",
+  "repository": "https://github.com/AchiyaCT/ALPHA-YOUTUBE-DOWNLOADER-TELEGRAM-BOT",
+  "success_url": "https://github.com/AchiyaCT/ALPHA-YOUTUBE-DOWNLOADER-TELEGRAM-BOT",
+  "website": "https://github.com/AchiyaCT/ALPHA-YOUTUBE-DOWNLOADER-TELEGRAM-BOT",
   "env": {
         "API_ID": {"description": "මෙම කේතය ගැනීම සදහා ඉදිරියේ ඇති ලින්ක් එක වෙත පිවිසෙන්න.. Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "මෙම කේතය ලබා ගැනීම සදහා ඉදිරියේ ඇති ලින්ක් එක වෙත පිවිසෙන්න.. Get this value from https://my.telegram.org" , "required": true},
